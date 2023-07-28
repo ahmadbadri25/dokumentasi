@@ -1,7 +1,7 @@
 # dokumentasi
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/ahmadbadri25/dokumentasi/blob/8a5d89ee7d50c8577352bf13b62c51d8d0346db9/%23.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Project Title</h3>
