@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="https://github.com/ahmadbadri25/dokumentasi/blob/77c4718dc7e7d246cb3234d9e456b2c3ea93bb3d/%23.png?raw=true" alt="Logo Proyek">
+    <img width=300px height=300px src="https://github.com/ahmadbadri25/dokumentasi/blob/77c4718dc7e7d246cb3234d9e456b2c3ea93bb3d/%23.png?raw=true" alt="Logo Proyek">
   </a>
 </p>
 
@@ -30,7 +30,7 @@ Mahasiswa yang tertarik dan bersemangat dalam bahasa program Web Front End Devel
 
 # 🐱‍🏍 Cara install Project ini <a href="#penggunaan" name="penggunaan"></a>
 
-Sebelum memulai, pastikan anda telah menyiapkan beberepa hal ini
+Sebelum memulai, pastikan anda telah menyiapkan beberapa hal ini
 
 1. Download semua file di repositori ini.
 2. Taruh File ini di system yaitu xampp/htdocs.
@@ -62,7 +62,7 @@ Di bawah ini adalah link tautan ke akun media sosial saya:
 - <a href="https://api.whatsapp.com/send?phone=085155332403"><img src="https://www.svgrepo.com/show/470314/whatsapp.svg" alt="WhatsApp" width="25" height="25"></a>
   [WhatsApp](https://api.whatsapp.com/send?phone=085155332403)
 
-- <a href="25.ahmadbadri@gmail.com"><img src="https://www.svgrepo.com/show/243092/gmail.svg" alt="Gmail" width="25" height="25"></a>
-  [Gmail](mailto:namaprofilsaya@gmail.com)
+- <a href="mailto:25.ahmadbadri@gmail.com"><img src="https://www.svgrepo.com/show/243092/gmail.svg" alt="Gmail" width="25" height="25"></a>
+  [Gmail](mailto:25.ahmadbadri@gmail.com)
 
 Jangan ragu untuk menghubungi saya melalui salah satu platform di atas! 😄
