@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="https://github.com/ahmadbadri25/dokumentasi/blob/77c4718dc7e7d246cb3234d9e456b2c3ea93bb3d/%23.png" alt="Logo Proyek">
+    <img width=200px height=200px src="https://github.com/ahmadbadri25/dokumentasi/blob/77c4718dc7e7d246cb3234d9e456b2c3ea93bb3d/%23.png?raw=true" alt="Logo Proyek">
   </a>
 </p>
 
@@ -40,13 +40,24 @@ Hal-hal yang perlu Anda instal untuk perangkat lunak ini dan cara menginstalnya
 
 # Selamat datang di Profil Sosial Media Saya!
 
-Di bawah ini adalah tautan ke akun media sosial saya:
+# Selamat datang di Profil Sosial Media Saya!
 
-1. <a href="https://www.instagram.com/namaprofilsaya"><img src="https://url.icon.com/instagram-icon.png" alt="Instagram" width="25"></a> [Instagram](https://www.instagram.com/namaprofilsaya)
-2. <a href="https://github.com/namaprofilsaya"><img src="https://url.icon.com/github-icon.png" alt="GitHub" width="25"></a> [GitHub](https://github.com/namaprofilsaya)
-3. <a href="https://www.linkedin.com/in/namaprofilsaya"><img src="https://url.icon.com/linkedin-icon.png" alt="LinkedIn" width="25"></a> [LinkedIn](https://www.linkedin.com/in/namaprofilsaya)
-4. <a href="https://www.facebook.com/namaprofilsaya"><img src="https://url.icon.com/facebook-icon.png" alt="Facebook" width="25"></a> [Facebook](https://www.facebook.com/namaprofilsaya)
-5. <a href="https://api.whatsapp.com/send?phone=nomornamaprofilsaya"><img src="https://url.icon.com/whatsapp-icon.png" alt="WhatsApp" width="25"></a> [WhatsApp](https://api.whatsapp.com/send?phone=nomornamaprofilsaya)
+Di bawah ini adalah tautan ikon ke akun media sosial saya:
+
+- <a href="https://www.instagram.com/namaprofilsaya"><img src="https://www.svgrepo.com/show/452231/instagram.svg" alt="Instagram" width="25" height="25"></a>
+  [Instagram](https://www.instagram.com/namaprofilsaya)
+
+- <a href="https://github.com/namaprofilsaya"><img src="https://www.svgrepo.com/show/494343/github.svg" alt="GitHub" width="25" height="25"></a>
+  [GitHub](https://github.com/namaprofilsaya)
+
+- <a href="https://www.linkedin.com/in/namaprofilsaya"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn" width="25" height="25"></a>
+  [LinkedIn](https://www.linkedin.com/in/namaprofilsaya)
+
+- <a href="https://www.facebook.com/namaprofilsaya"><img src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="Facebook" width="25" height="25"></a>
+  [Facebook](https://www.facebook.com/namaprofilsaya)
+
+- <a href="https://api.whatsapp.com/send?phone=nomornamaprofilsaya"><img src="https://www.svgrepo.com/show/470314/whatsapp.svg" alt="WhatsApp" width="25" height="25"></a>
+  [WhatsApp](https://api.whatsapp.com/send?phone=nomornamaprofilsaya)
 
 Jangan ragu untuk menghubungi saya melalui salah satu platform di atas! 😄
 
