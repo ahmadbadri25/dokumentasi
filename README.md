@@ -42,11 +42,11 @@ Hal-hal yang perlu Anda instal untuk perangkat lunak ini dan cara menginstalnya
 
 Di bawah ini adalah tautan ke akun media sosial saya:
 
-1. [Instagram](https://www.instagram.com/namaprofilsaya) ![Instagram](https://url.icon.com/instagram-icon.png)
-2. [GitHub](https://github.com/namaprofilsaya) ![GitHub](https://url.icon.com/github-icon.png)
-3. [LinkedIn](https://www.linkedin.com/in/namaprofilsaya) ![LinkedIn](https://url.icon.com/linkedin-icon.png)
-4. [Facebook](https://www.facebook.com/namaprofilsaya) ![Facebook](https://url.icon.com/facebook-icon.png)
-5. [WhatsApp](https://api.whatsapp.com/send?phone=nomornamaprofilsaya) ![WhatsApp](https://url.icon.com/whatsapp-icon.png)
+1. <a href="https://www.instagram.com/namaprofilsaya"><img src="https://url.icon.com/instagram-icon.png" alt="Instagram" width="25"></a> [Instagram](https://www.instagram.com/namaprofilsaya)
+2. <a href="https://github.com/namaprofilsaya"><img src="https://url.icon.com/github-icon.png" alt="GitHub" width="25"></a> [GitHub](https://github.com/namaprofilsaya)
+3. <a href="https://www.linkedin.com/in/namaprofilsaya"><img src="https://url.icon.com/linkedin-icon.png" alt="LinkedIn" width="25"></a> [LinkedIn](https://www.linkedin.com/in/namaprofilsaya)
+4. <a href="https://www.facebook.com/namaprofilsaya"><img src="https://url.icon.com/facebook-icon.png" alt="Facebook" width="25"></a> [Facebook](https://www.facebook.com/namaprofilsaya)
+5. <a href="https://api.whatsapp.com/send?phone=nomornamaprofilsaya"><img src="https://url.icon.com/whatsapp-icon.png" alt="WhatsApp" width="25"></a> [WhatsApp](https://api.whatsapp.com/send?phone=nomornamaprofilsaya)
 
 Jangan ragu untuk menghubungi saya melalui salah satu platform di atas! 😄
 
