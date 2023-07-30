@@ -22,12 +22,14 @@
 - [Tentang saya](#tentang)
 - [Penggunaan](#penggunaan)
 - [Dibangun Menggunakan](#dibangun)
+- [Contact](#contact)
 
 # 🐱‍👓 Tentang Saya <a href="#tentang" name="tentang"></a>
 
 Mahasiswa yang tertarik dan bersemangat dalam bahasa program Web Front End Development. Selama masa kuliah, saya aktif membuat project kecil yang bisa melibatkan pengembangan web. Saya memiliki pengetahuan dan keterampilan dalam menggunakan HTML, CSS, PHP dan Javascript untuk menciptakan tampilan website yang menarik dan interaktf.
 
 # 🐱‍🏍 Cara install Project ini <a href="#penggunaan" name="penggunaan"></a>
+
 Sebelum memulai, pastikan anda telah menyiapkan beberepa hal ini
 
 1. Download semua file di repositori ini.
@@ -36,14 +38,12 @@ Sebelum memulai, pastikan anda telah menyiapkan beberepa hal ini
 4. buka browser kalian lalu ketik localhost/data-customer
 
 # 🐱‍💻 Bahasa yang dipakai dan Apk Pendukung <a href="#dibangun" name="#dibangun"></a>
+
 1. Bahasa Pemrogaman yang dipakai PHP,HTML,CSS,Javascript,JSON
 2. Text Editor Visual Studio Code
 3. Database Xampp
 
-
- 
-
-# Contact
+# 📲 Contact <a href="#contact" name="contact"></a>
 
 Di bawah ini adalah link tautan ke akun media sosial saya:
 
