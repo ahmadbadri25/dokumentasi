@@ -1,115 +1,68 @@
-# dokumentasi
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+    <img width=300px height=300px src="https://github.com/ahmadbadri25/dokumentasi/blob/77c4718dc7e7d246cb3234d9e456b2c3ea93bb3d/%23.png?raw=true" alt="Logo Proyek">
+  </a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Data Customer</h3>
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/status-aktif-success.svg)]()
+[![GitHub Issues](https://img.shields.io/badge/Issues-0_-salmon)](https://github.com/ahmadbadri25/PHP-data-customer/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/ahmadbadri25/PHP-data-customer/pulls)
+[![License](https://img.shields.io/badge/Language-PHP-salmon.svg)](/LICENSE)
 
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
+# 📝 Daftar Isi
 
-## 📝 Table of Contents
+- [Tentang saya](#tentang)
+- [Penggunaan](#penggunaan)
+- [Dibangun Menggunakan](#dibangun)
+- [Contact](#contact)
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+# 🐱‍👓 Tentang Saya <a href="#tentang" name="tentang"></a>
 
-## 🧐 About <a name = "about"></a>
+Mahasiswa yang tertarik dan bersemangat dalam bahasa program Web Front End Development. Selama masa kuliah, saya aktif membuat project kecil yang bisa melibatkan pengembangan web. Saya memiliki pengetahuan dan keterampilan dalam menggunakan HTML, CSS, PHP dan Javascript untuk menciptakan tampilan website yang menarik dan interaktf.
 
-Write about 1-2 paragraphs describing the purpose of your project.
+# 🐱‍🏍 Cara install Project ini <a href="#penggunaan" name="penggunaan"></a>
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+Sebelum memulai, pastikan anda telah menyiapkan beberapa hal ini
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+1. Download semua file di repositori ini.
+2. Taruh File ini di system yaitu xampp/htdocs.
+3. Beri nama sesuai keinginan kalian lalu taruh disitu contoh nama (data-customer)
+4. buka browser kalian lalu ketik localhost/data-customer
 
-### Prerequisites
+# 🐱‍💻 Bahasa yang dipakai dan Apk Pendukung <a href="#dibangun" name="#dibangun"></a>
 
-What things you need to install the software and how to install them.
+1. Bahasa Pemrogaman yang dipakai PHP,HTML,CSS,Javascript,JSON
+2. Text Editor Visual Studio Code
+3. Database Xampp
 
-```
-Give examples
-```
+# 📲 Contact <a href="#contact" name="contact"></a>
 
-### Installing
+Di bawah ini adalah link tautan ke akun media sosial saya:
 
-A step by step series of examples that tell you how to get a development env running.
+- <a href="https://www.instagram.com/badruui"><img src="https://www.svgrepo.com/show/452231/instagram.svg" alt="Instagram" width="25" height="25"></a>
+  [Instagram](https://www.instagram.com/badruui)
 
-Say what the step will be
+- <a href="https://github.com/ahmadbadri25"><img src="https://www.svgrepo.com/show/494343/github.svg" alt="GitHub" width="25" height="25"></a>
+  [GitHub](https://github.com/ahmadbadri25)
 
-```
-Give the example
-```
+- <a href="https://www.linkedin.com/in/ahmadbadri25"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn" width="25" height="25"></a>
+  [LinkedIn](https://www.linkedin.com/in/ahmadbadri25)
 
-And repeat
+- <a href="https://www.facebook.com/abadruui"><img src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="Facebook" width="25" height="25"></a>
+  [Facebook](https://www.facebook.com/abadruui)
 
-```
-until finished
-```
+- <a href="https://api.whatsapp.com/send?phone=085155332403"><img src="https://www.svgrepo.com/show/470314/whatsapp.svg" alt="WhatsApp" width="25" height="25"></a>
+  [WhatsApp](https://api.whatsapp.com/send?phone=085155332403)
 
-End with an example of getting some data out of the system or using it for a little demo.
+- <a href="mailto:25.ahmadbadri@gmail.com"><img src="https://www.svgrepo.com/show/243092/gmail.svg" alt="Gmail" width="25" height="25"></a>
+  [Gmail](mailto:25.ahmadbadri@gmail.com)
 
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+Jangan ragu untuk menghubungi saya melalui salah satu platform di atas! 😄
